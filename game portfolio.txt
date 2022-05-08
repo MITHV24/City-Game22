@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <style type="text/css">
+   body{
+      background-color:rgb(50,50,50);
+      color:white
+   }
+   a{
+      color:rgb(210,210,255)
+   }
+   img{
+      margin: 15px 15px 15px 15px
+   }
+   hr{
+      border-top: 1px solid gray;
+   }
+   .infotd{
+     vertical-align:top
+   }
+ </style>
+</head>
+
+<body style="background-color:rgb(50,50,50); color:white">
+<table width= 1000px>
+  <tr>
+    <td class="infotd">
+      <h3>Methusha Vigneswaran</h3>
+      <p> Before joining the bootcamp ,i had no
+ knowledge of java but after joining the bootcamp
+ it has given me courage and the skills to code in JAVA.</p> 
+    </td>
+    <td>
+	<img src="imageofyou.png" width=300px></img>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+	<hr>
+    </td>
+  </tr>
+
+ <tr>
+  <td class="infotd">
+    <h3>Bootcamp 2020: Programming project</h3>
+    <p>
+	My first programming project is based on visuals/graphics 
+        because that's what i've always been interested in.
+        This project is based on Generative art.I've used 3D shape 
+        using pop/push matrix to do my graphics.My project consists
+        of various colours according to the lights that i have
+        defined:spot light and directional light.As the mouse has been placed 
+        on the 3D cuboid grid ,the cuboid would move to the direction of 
+        left,right,up,down.
+    </p>
+
+    <p>
+      Check out the code on Github: <a href="https://github.com/MITHV24/showcase-project/tree/main/cuboids_rotating_project_3./</a>
+    </p>
+  <td>
+	<video width="429" height="200" controls>
+	<source src="<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/5215a9dc-8d9f-43cc-aaaf-cf5451c23003?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+  <td>
+  </td>
+<tr>
+ <td colspan = 2 align=center>
+	<img src="pic1.png" width="285px">
+	<img src="pic2.png" width="265px">
+	<img src="pic3.png" width="255px">
+ </td>
+</tr>
+ </tr>
+<td class="infotd">
+    <h3>Game: Vampire Hunt</h3>
+    <p>
+	For my java projecti created a pixelated 2D game that consists of the main player,enemy, many collectibles,colliosion.This gaming project has given me wide experience of how to game using City Engine and coding it in Java Language.
+
+    </p>
+<td>
+< video width="1380" height="966" controls>
+<source src="game.mp4" type="video/mp4>
+</video>
+</td>
+</td>
+
+
+
+
+</table>
+</body>
+</html>
